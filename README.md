@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Al-Hossein Mahmoud</h1>
-<h3 align="center"> Ai&ML Student</h3>
+<h3 align="center"> JR Ai&ML Engineer</h3>
 
 # About Me:
-AI & ML student specializing in building intelligent systems including Ai & ML<br>Passionate about turning complex ideas into practical, working solutions.
+AI & ML Engineer specializing in building intelligent systems including Ai & ML<br>Passionate about turning complex ideas into practical, working solutions.
 
 
 ## Socials:
