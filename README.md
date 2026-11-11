@@ -11,6 +11,10 @@
 
 I build AI systems end to end — from data pipelines and model fine-tuning (LoRA) to serving layers with FastAPI and Docker. My recent work focuses on production-style **RAG pipelines**, **multi-agent orchestration**, and **interpretable computer vision** (Grad-CAM). Trained at the **ITI** (Information Technology Institute) summer program.
 
+## 🌱 Open Source
+
+Lately I've started contributing to open-source projects — digging into real codebases, picking up issues, and working on fixes and improvements (currently around LangChain and other AI tooling). Learning in public, one PR at a time.
+
 ## Featured Projects
 
 | Project | What it does |
